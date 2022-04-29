@@ -122,3 +122,6 @@ Let's look at some Declarative Paradigm Subparadigms and examples of programming
 
 ## 2.1 Functional Paradigm: Lisp and Haskell
 ## 2.2 Logical Paradigm: Prolog
+
+- [LICENSE](./LICENSE) 
+
