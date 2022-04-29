@@ -1,3 +1,5 @@
+Daily Learning
+
 # Challenge: Learn Object Oriented Programming in Practice
 
 The main objective is to put into practice one of the main tools of OO: ABSTRACTION, ENCAPSULATION, INHERITANCE AND POLYMORPHISM, through a Java project.
