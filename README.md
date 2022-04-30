@@ -1,5 +1,8 @@
 Daily Learning
 
+Project developed at Digital Innovation One's GFT Start #3 Java with the instruction of specialist [Camila Cavalcante](https://github.com/cami-la "Camila Cavalcante").
+Learning to abstract a Bootcamp Using Object Oriented Programming (OOP) in Java.
+
 # Challenge: Learn Object Oriented Programming in Practice
 
 The main objective is to put into practice one of the main tools of OO: ABSTRACTION, ENCAPSULATION, INHERITANCE AND POLYMORPHISM, through a Java project.
